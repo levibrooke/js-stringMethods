@@ -1,4 +1,4 @@
-/*String Methods allow you to work with strings.  */  
+/*String Methods allow you to work with strings.  */
 
 /*Let's practice some string methods. Don't forget to console.log your results and run node REPL in the terminal.*/
 
@@ -9,7 +9,7 @@
 
 var longestPlaceName = "Taumatawhakatangihangakoauauotamateaturipukakapiki- maungahoronukupokaiwhenuakitanatahu";  //Yes, this is a real place located in Porangahau, Central Hawke's Bay.
 
-
+// New comment here
 
 /*Next, concatenate and console.log the following phrase:
 "x is the longest place name in the world and has y letters in its name."
@@ -77,12 +77,3 @@ var oreos = "red velvet, cookie dough, peanut butter, banana split, birthday cak
 /*9. Declare a variable named `favDrink` and extract "gin" from the string below. Console.log your result.*/
 
 var drinkMenu = "rum, gin, vodka, kool-aid, haterade";
-
-
-
-
-
-
-       
-       
-
